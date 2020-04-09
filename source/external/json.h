@@ -30,6 +30,7 @@
 #define SHEREDOM_JSON_H_INCLUDED
 
 #include <stddef.h>
+#include <stdbool.h>
 
 #if defined(_MSC_VER)
 #pragma warning(push)
